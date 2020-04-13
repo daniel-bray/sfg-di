@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.danielbraydevelopment.sfgdi.SfgDiApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.154 s - in com.danielbraydevelopment.sfgdi.SfgDiApplicationTests

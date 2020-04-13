@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="sfg-di" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.danielbraydevelopment.sfgdi.SfgDiApplication" />
+    <module name="sfg-di" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
